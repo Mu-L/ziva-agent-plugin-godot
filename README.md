@@ -71,5 +71,5 @@ For more details, see our [privacy policy](https://ziva.sh/privacy).
 
 ## Development Status
 
-Ziva is in active beta (v0.1.0). Expect bugs and rough edges.
+Ziva is in active beta. Expect bugs and rough edges.
 
